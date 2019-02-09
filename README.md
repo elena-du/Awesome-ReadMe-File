@@ -12,3 +12,8 @@ How to post a link?
 This is*
 
 \* to test asterics.
+
+Here I am\
+breaking the line\
+It's not a poem\
+But works just fine
