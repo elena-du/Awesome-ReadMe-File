@@ -56,6 +56,23 @@ This is an ordered list:
 2. second item
   * this is semi-item 1
   * this is semi-item 2
+  
+1. Ingredients
+    - spaghetti
+    - marinara sauce
+    - salt
+
+2. Cooking
+
+     Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is **tender**.
+
+3. Serve
+
+   Drain the pasta on a plate. Add heated sauce. 
+
+   > No man is lonely eating spaghetti; it requires so much attention.
+
+   Bon appetit!
 
 1\. Not a list item, just text
 
@@ -74,7 +91,3 @@ for (i=0; i<5; i++) {
 }
 ```
 And text again
-
-
-
-
