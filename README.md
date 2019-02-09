@@ -51,8 +51,8 @@ This is a list:
 
 This is an ordered list:
 1. first item
-  * this is semi-item 1
-  * this is semi-item 2
+    * this is semi-item 1
+    * this is semi-item 2
 2. second item
   * this is semi-item 1
   * this is semi-item 2
