@@ -30,5 +30,5 @@ The quote
 
 > Luck is what happens when preparation meets opportunity
 >
->                            *Seneca*
+>                                                  Seneca
 
