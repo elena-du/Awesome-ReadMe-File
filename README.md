@@ -43,10 +43,38 @@ The quote
 This is a list:
 
 * first item
+  * this is semi-item 1
+  * this is semi-item 2
 * second item
+  * this is semi-item 1
+  * this is semi-item 2
 
 This is an ordered list:
 1. first item
+  * this is semi-item 1
+  * this is semi-item 2
 2. second item
+  * this is semi-item 1
+  * this is semi-item 2
 
 1\. Not a list item, just text
+
+Code:
+
+Inline: When `x = 3`, that means `x + 2 = 5`
+
+Chunk:
+
+A loop in JavaScript:
+
+```
+var i;
+for (i=0; i<5; i++) {
+  console.log(i);
+}
+```
+And text again
+
+
+
+
