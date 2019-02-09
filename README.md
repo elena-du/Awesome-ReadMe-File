@@ -11,4 +11,4 @@ How to post a link?
 
 This is*
 
-/* to test asterics.
+\* to test asterics.
