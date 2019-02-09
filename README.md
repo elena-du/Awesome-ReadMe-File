@@ -2,9 +2,16 @@
 
 this is a *Markdown* **test**
 
+![I'm a pricture from the link](https://commonmark.org/help/images/favicon.png)
 
+Other way: 
+
+![Logo][2]
+
+[2]: https://commonmark.org/help/images/favicon.png "I'm text"
 
 How to post a link?  
+This is how to display plain clicable link: <https://data.gov>
 
 [Depository of US Government Data](https://data.gov)
 
