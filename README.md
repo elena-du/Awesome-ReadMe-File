@@ -1,19 +1,22 @@
-# hello-world
+# All sintax you need for an awesome README.md
 
-this is a *Markdown* **test**
+In essence, this is a *Markdown* **language**. 
+
+Insert picture **Option 1**
 
 ![I'm a pricture from the link](https://commonmark.org/help/images/favicon.png)
 
-Other way: 
+Insert picture **Option 2** 
 
 ![Logo][2]
 
 [2]: https://commonmark.org/help/images/favicon.png "I'm text"
 
-How to post a link?  
+Want to post a link? 
+
 This is how to display plain clicable link: <https://data.gov>
 
-[Depository of US Government Data](https://data.gov)
+This is how to display give a name to a link: [Depository of US Government Data](https://data.gov)
 
 [My Code](doc/test_hello.Rmd)
 
@@ -41,7 +44,6 @@ The quote
 
 
 This is a list:
-
 * first item
   * this is semi-item 1
   * this is semi-item 2
@@ -56,8 +58,9 @@ This is an ordered list:
 2. second item
   * this is semi-item 1
   * this is semi-item 2
-  
-1. Ingredients
+
+Yet, another list:
+1. Ingredients 
     - spaghetti
     - marinara sauce
     - salt
@@ -74,13 +77,17 @@ This is an ordered list:
 
    Bon appetit!
 
-1\. Not a list item, just text
+And this is NOT a list item, just text:
+1\.Think of the way you want to use this format. 2\.Let me know as I didn't find a good example yet.  
 
-Code:
+Want to showcase some **code**?
 
-Inline: When `x = 3`, that means `x + 2 = 5`
+**Inline**: 
+When `x = 3`, that means `x + 2 = 5`
 
-Chunk:
+**or**
+
+**Chunk**:
 
 A loop in JavaScript:
 
@@ -90,4 +97,4 @@ for (i=0; i<5; i++) {
   console.log(i);
 }
 ```
-And text again
+And some plain text to comment on it!
