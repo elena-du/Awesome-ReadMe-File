@@ -42,6 +42,10 @@ The quote
 >
 >                                                  Seneca
 
+> The noblest pleasure is the joy of understanding
+> 
+>                                                  Leonardo da Vinchi
+
 
 This is a list:
 * first item
