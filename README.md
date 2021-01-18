@@ -2,6 +2,12 @@
 
 In essence, this is a *Markdown* **language**. 
 
+Let's start with a pretty cat.
+
+![kitten-4814553_640](https://user-images.githubusercontent.com/39673440/104966825-e15c3f00-59af-11eb-9f34-3b92d4ea0d6d.jpg)
+
+Image by <a href="https://pixabay.com/users/jfranklin101-8627525/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4814553">Joanna Franklin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4814553">Pixabay</a>
+
 Insert picture **Option 1**
 
 ![I'm a pricture from the link](https://commonmark.org/help/images/favicon.png)
