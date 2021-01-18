@@ -109,3 +109,5 @@ And add some a formula? Standard Markdown is not supported: $$\frac{n!}{k!(n-k)!
 But you can do this:
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} =x%2B1">
