@@ -104,3 +104,6 @@ for (i=0; i<5; i++) {
 }
 ```
 And some plain text to comment on it!
+
+And add some a formula?
+$$\frac{n!}{k!(n-k)!}$$
