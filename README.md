@@ -2,7 +2,7 @@
 
 In essence, this is a *Markdown* **language**. 
 
-Let's start with a pretty cat.
+Let's start with a pretty cat to illustrate how to open and close issues in a GitHub. You can use the word 'fixes' inside a particular commit message.
 
 ![kitten-4814553_640](https://user-images.githubusercontent.com/39673440/104966825-e15c3f00-59af-11eb-9f34-3b92d4ea0d6d.jpg)
 
