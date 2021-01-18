@@ -105,5 +105,7 @@ for (i=0; i<5; i++) {
 ```
 And some plain text to comment on it!
 
-And add some a formula?
-$$\frac{n!}{k!(n-k)!}$$
+And add some a formula? Standard Markdown is not supported: $$\frac{n!}{k!(n-k)!}$$
+But you can do this:
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
